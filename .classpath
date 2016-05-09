@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/ptb4866/workspace/protobuf-java-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/ptb4866/workspace/org.json-20130603-sources.jar"/>
+	<classpathentry kind="lib" path="/home/ptb4866/workspace/org.json-20130603.jar"/>
+	<classpathentry kind="lib" path="/home/ptb4866/workspace/jndn-without-protobuf-0.11.jar"/>
+	<classpathentry kind="lib" path="/home/ptb4866/workspace/jndn-0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
